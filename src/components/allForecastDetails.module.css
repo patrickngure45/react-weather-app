@@ -1,0 +1,10 @@
+.main {
+  background-color: rgb(176, 205, 230);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+}
+.container {
+  flex: 7;
+}

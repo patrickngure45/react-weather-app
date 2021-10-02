@@ -1,0 +1,21 @@
+.main {
+  margin: 20px auto;
+  height: 35vh;
+  width: 70vw;
+  max-width: 600px;
+  background: linear-gradient(45deg, rgb(16, 59, 65), rgb(5, 138, 109));
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 5px 5px 3px -1px rgba(12, 94, 112, 0.58);
+  -webkit-box-shadow: 5px 5px 3px -1px rgba(12, 94, 112, 0.58);
+  -moz-box-shadow: 5px 5px 3px -1px rgba(12, 94, 112, 0.58);
+}
+
+.errorPage {
+  padding-top: 10px;
+  margin-top: 10ppx;
+}

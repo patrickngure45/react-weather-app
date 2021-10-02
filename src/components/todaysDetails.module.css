@@ -1,0 +1,18 @@
+.main {
+  padding: 5px;
+  height: 70%;
+  width: 100%;
+  background: linear-gradient(90deg, rgba(7, 68, 126, 0.562), rgb(10, 10, 41));
+  border-top-right-radius: 10px;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+}
+.details h4 {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.details p {
+  font-size: 12px;
+}

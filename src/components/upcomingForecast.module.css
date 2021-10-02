@@ -1,0 +1,28 @@
+.main {
+  height: 30%;
+  background-color: brown;
+  border-bottom-right-radius: 10px;
+  background: linear-gradient(90deg, rgba(7, 68, 126, 0.562), rgb(10, 10, 41));
+  display: flex;
+  padding-left: 5px;
+}
+.upcomingDaysList {
+  width: 100%;
+  height: 100%;
+  padding: 0 5px;
+}
+.upcomingDaysList ul {
+  list-style: none;
+}
+.upcomingDaysList img {
+  height: 20px;
+  width: 20px;
+}
+.upcomingDaysList ul li p {
+  font-size: 12px;
+  font-weight: bold;
+}
+.upcomingDaysList ul li h6 {
+  font-weight: bold;
+  padding: 2px 0;
+}
